@@ -11,9 +11,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AayushM101&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AayushM101&theme=catppuccin_latte&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushM101&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=AayushM101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
